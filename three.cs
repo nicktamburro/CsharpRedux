@@ -24,6 +24,14 @@ namespace VariableScope
         static void DoStuff()
         {
             Console.WriteLine("DoStuff says " + Program.helloClass);
+
+            //while we're here, here are the datatypes:
+            bool boolBalmandCollected = true;
+            int innit = 6;
+            string stingBall = "Cat's Cradle";
+            char superMan = "S";
+            float floatOn = "90.3";
         }
     }
 }
+
