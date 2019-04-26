@@ -38,3 +38,4 @@ static void AddFive(ref int number)
 //so it wasn't because of void, it was that we needed to add ref
 
 //okay read more about ref
+//ohhhh okay, since the default is params by value, we are asking them here to do it by reference
