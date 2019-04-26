@@ -22,3 +22,7 @@ public int AddNumbers(int number1, int number2)
     return resule;
 }
 //remember the function is defined as int, becuause it returns an int
+//now we call it like this
+
+int result = AddNumbers(10, 5);
+Console.WriteLine(result);
