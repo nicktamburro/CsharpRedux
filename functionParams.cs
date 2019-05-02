@@ -39,3 +39,7 @@ static void AddFive(ref int number)
 
 //okay read more about ref
 //ohhhh okay, since the default is params by value, we are asking them here to do it by reference
+
+//read about "out" vs. "ref"//installed vs stui
+//studio and .net etc
+
