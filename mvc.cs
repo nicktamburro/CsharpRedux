@@ -14,3 +14,4 @@ namespace WebApplication1.Controllers {
 //(it wasn't in the initial stuff I was reading)
 
 //getting error: unable to connect to web server 'iss express'
+//solved, it was a feature on VS that was pointing to another project/connection
