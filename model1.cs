@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace WebApplication1.Models
 {
     public class GuestResponse{
-
+        //these are the user inputs, 3 strings and a boolean
         public string Name { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
