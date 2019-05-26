@@ -10,6 +10,7 @@ namespace WebApplication1.Models
     public class GuestResponse{
         //these are the user inputs, 3 strings and a boolean
         public string Name { get; set; }
+        //we have to learn about get; set
         public string Email { get; set; }
         public string Phone { get; set; }
         public bool? WillAttend { get; set; }
